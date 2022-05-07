@@ -24,7 +24,7 @@ public class StaticInitializer {
         scanner.close();
     }
 
-public static void main(String[] args){
+    public static void main(String[] args){
 		if(flag){
 			int area=B*H;
 			System.out.print(area);
